@@ -1,0 +1,167 @@
+W1109 19:24:42.873000 90287 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:02<15:48,  2.82s/it]Loading weights:  51%|█████     | 171/338 [00:02<00:02, 79.52it/s]Loading weights:  67%|██████▋   | 228/338 [00:03<00:01, 79.37it/s]Loading weights:  78%|███████▊  | 263/338 [00:04<00:00, 77.39it/s]Loading weights:  85%|████████▍ | 287/338 [00:04<00:00, 75.67it/s]Loading weights:  90%|█████████ | 305/338 [00:04<00:00, 68.47it/s]Loading weights:  94%|█████████▍| 319/338 [00:05<00:00, 68.86it/s]Loading weights:  98%|█████████▊| 331/338 [00:05<00:00, 71.09it/s]Loading weights: 100%|██████████| 338/338 [00:05<00:00, 63.96it/s]
+[1/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=1
+[2/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[3/100] gold=SUPPORT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=0
+[4/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[5/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[6/100] gold=CONTRADICT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[7/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[8/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[9/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[10/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[11/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[12/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[13/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[14/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[15/100] gold=SUPPORT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[16/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=1
+[17/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[18/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[19/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=0
+[20/100] gold=SUPPORT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[21/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[22/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[23/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[24/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[25/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[26/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[27/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[28/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[29/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=CONTRADICT rw=0
+[30/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[31/100] gold=SUPPORT naive=CONTRADICT nei=CONTRADICT sc=CONTRADICT rw=0
+[32/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[33/100] gold=CONTRADICT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=2
+[34/100] gold=SUPPORT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[35/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[36/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[37/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[38/100] gold=CONTRADICT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=2
+[39/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[40/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[41/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[42/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[43/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[44/100] gold=SUPPORT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[45/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=0
+[46/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=2
+[47/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[48/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[49/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[50/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[51/100] gold=SUPPORT naive=CONTRADICT nei=SUPPORT sc=SUPPORT rw=0
+[52/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[53/100] gold=CONTRADICT naive=CONTRADICT nei=CONTRADICT sc=CONTRADICT rw=0
+[54/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[55/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[56/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[57/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[58/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[59/100] gold=CONTRADICT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=2
+[60/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[61/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[62/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=1
+[63/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[64/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[65/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=2
+[66/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[67/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[68/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[69/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[70/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[71/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[72/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[73/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=0
+[74/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[75/100] gold=CONTRADICT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[76/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[77/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[78/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[79/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[80/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[81/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[82/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[83/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[84/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[85/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[86/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[87/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[88/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[89/100] gold=NEI naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[90/100] gold=SUPPORT naive=CONTRADICT nei=CONTRADICT sc=SUPPORT rw=0
+[91/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[92/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=CONTRADICT rw=0
+[93/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[94/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[95/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[96/100] gold=CONTRADICT naive=CONTRADICT nei=ABSTAIN sc=ABSTAIN rw=2
+[97/100] gold=SUPPORT naive=SUPPORT nei=SUPPORT sc=SUPPORT rw=0
+[98/100] gold=NEI naive=SUPPORT nei=SUPPORT sc=ABSTAIN rw=0
+[99/100] gold=NEI naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=0
+[100/100] gold=SUPPORT naive=CONTRADICT nei=CONTRADICT sc=ABSTAIN rw=2
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "device": "mps",
+  "dev_claims": 100,
+  "tune_claims": 40,
+  "gold_distribution": {
+    "SUPPORT": 45,
+    "CONTRADICT": 20,
+    "NEI": 35
+  },
+  "tuned_answer_threshold": 0.95,
+  "tune_grid_accuracy": {
+    "0.5": 0.425,
+    "0.55": 0.425,
+    "0.6": 0.425,
+    "0.65": 0.45,
+    "0.7": 0.475,
+    "0.75": 0.5,
+    "0.8": 0.525,
+    "0.85": 0.6,
+    "0.9": 0.6,
+    "0.95": 0.65
+  },
+  "grade_threshold": 0.5,
+  "max_rewrites": 2,
+  "systems": {
+    "naive": {
+      "n": 100,
+      "accuracy": 0.48,
+      "abstention_rate": 0.0,
+      "false_answer_rate": 0.52,
+      "answered_precision": 0.48,
+      "correct": 48,
+      "wrong_answers": 52,
+      "abstained": 0,
+      "abstained_on_nei": 0
+    },
+    "naive_nei": {
+      "n": 100,
+      "accuracy": 0.5,
+      "abstention_rate": 0.18,
+      "false_answer_rate": 0.4,
+      "answered_precision": 0.5122,
+      "correct": 50,
+      "wrong_answers": 40,
+      "abstained": 18,
+      "abstained_on_nei": 8
+    },
+    "self_correcting": {
+      "n": 100,
+      "accuracy": 0.61,
+      "abstention_rate": 0.48,
+      "false_answer_rate": 0.16,
+      "answered_precision": 0.6923,
+      "correct": 61,
+      "wrong_answers": 16,
+      "abstained": 48,
+      "abstained_on_nei": 25
+    }
+  },
+  "sc_rewrite_rate": 0.2,
+  "sc_mean_rewrites": 0.37,
+  "llm_calls": 1188,
+  "wall_seconds": 407.1
+}
